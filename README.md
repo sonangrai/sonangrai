@@ -1,17 +1,25 @@
 <img src="https://github.com/sonangrai/sonangrai/blob/main/pof.jpg" alt="sonangrai-poster" /><h1 align="center">Hi 👋, I'm Rai 🤓Sonang</h1>
+
 <h3 align="center">💻MERN Stacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonangrai&label=Profile%20views&color=0e75b6&style=flat" alt="sonangrai" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sonahang-rai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sonahang-rai" height="30" width="40" /></a>
-<a href="https://fb.com/soonangrai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="soonangrai" height="30" width="40" /></a>
-<a href="https://instagram.com/soonangrai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="soonangrai" height="30" width="40" /></a>
-<a href="/http://www.sonahangrai.com/feed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="http://www.sonahangrai.com/feed" height="30" width="40" /></a>
-</p>
+<div style="display:flex; justify-content:space-between; align-items:center; margin: 2em 0;">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+
+<div>
+<a href="https://www.linkedin.com/in/sonahang-rai/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/soonangrai/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/soonangrai" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+</div>
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonangrai&show_icons=true&locale=en" alt="sonangrai" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonangrai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonangrai&theme=tokyonight" alt="mystreak"/>
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=sonangrai&theme=react-dark&hide_border=true&area=true)
+
+<img src="https://github-profile-trophy.vercel.app/?username=sonangrai&theme=juicyfresh&no-bg=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonangrai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
