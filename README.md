@@ -18,8 +18,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonangrai&theme=tokyonight" alt="mystreak"/>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=sonangrai&theme=react-dark&hide_border=true&area=true)
-
 <img src="https://github-profile-trophy.vercel.app/?username=sonangrai&theme=juicyfresh&no-bg=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonangrai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
