@@ -1,6 +1,6 @@
 <img src="https://github.com/sonangrai/sonangrai/blob/main/pof.jpg" alt="sonangrai-poster" /><h1 align="center">Hi 👋, I'm Rai 🤓Sonang</h1>
 
-<h3 align="center">💻MERN Stacker</h3>
+<h3 align="center">💻MERN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonangrai&label=Profile%20views&color=0e75b6&style=flat" alt="sonangrai" /> </p>
 
@@ -13,8 +13,6 @@
 <a href="https://www.facebook.com/soonangrai" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </div>
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonangrai&show_icons=true&locale=en" alt="sonangrai" /></p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonangrai&theme=tokyonight" alt="mystreak"/>
 
