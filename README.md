@@ -14,8 +14,15 @@
 </div>
 </div>
 
+<hr>
+<div style="display:flex; justify-content:center; align-items:center;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonangrai&theme=tokyonight" alt="mystreak"/>
+</div>
+<hr>
 
 <img src="https://github-profile-trophy.vercel.app/?username=sonangrai&theme=juicyfresh&no-bg=true" />
+<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonangrai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex; justify-content:center; align-items:center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonangrai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
