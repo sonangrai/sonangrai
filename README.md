@@ -1,6 +1,7 @@
+
 <img src="https://github.com/sonangrai/sonangrai/blob/main/pof.jpg" alt="sonangrai-poster" /><h1 align="center">Hi 👋, I'm Rai 🤓Sonang</h1>
 
-<h3 align="center">💻MERN</h3>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sonangrai&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonangrai&label=Profile%20views&color=0e75b6&style=flat" alt="sonangrai" /> </p>
 
@@ -20,7 +21,7 @@
 </div>
 <hr>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sonangrai&theme=juicyfresh&no-bg=true" />
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 <hr>
 
 <div style="display:flex; justify-content:center; align-items:center;">
